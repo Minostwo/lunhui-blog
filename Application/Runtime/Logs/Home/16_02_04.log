@@ -1,0 +1,1184 @@
+[ 2016-02-04T10:22:28+08:00 ] ::1 /lunhui/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0110s ]
+ERR: 1054:Unknown column 'create_time' in 'field list'
+ [ SQL语句 ] : SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50  
+ERR: 1054:Unknown column 'create_time' in 'field list'
+ [ SQL语句 ] : SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50  
+
+[ 2016-02-04T10:24:32+08:00 ] ::1 /lunhui/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0027s ]
+SQL: SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50   [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `web_carousel_list` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `web_carousel_list` WHERE ( img != '' and state > 0 ) ORDER BY orderby  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_link` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `web_link` WHERE ( state = 1 ) ORDER BY orderby  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_liuyan` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `web_liuyan` ORDER BY add_time desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `a_id` FROM `web_article` WHERE ( a_views > 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 22 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 28 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 30 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `a_id`,`photo`,`a_title`,`a_remark`,`a_keyword`,`cate_id`,`create_time`,`last_time`,`a_content`,`a_views`,`a_type`,`a_red`,`a_from`,`a_writer`,`create_ip` FROM `web_article` WHERE ( a_views > 0 ) ORDER BY a_views desc LIMIT 12   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `web_article` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` INNER JOIN web_article_cate ON web_article_cate.cate_id = web_article.cate_id  ORDER BY a_id desc LIMIT 0,6   [ RunTime:0.0150s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+NOTIC: [8] Undefined variable: v D:\WWW\lunhui\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 171 行.
+NOTIC: [8] Undefined variable: v D:\WWW\lunhui\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 171 行.
+NOTIC: [8] Undefined variable: v D:\WWW\lunhui\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 171 行.
+NOTIC: [8] Undefined variable: v D:\WWW\lunhui\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 171 行.
+NOTIC: [8] Undefined variable: v D:\WWW\lunhui\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 171 行.
+NOTIC: [8] Undefined variable: v D:\WWW\lunhui\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 171 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013961s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014091s ]
+
+[ 2016-02-04T10:24:32+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e5e730ff2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-02-04T10:24:32+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e64400bcd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-02-04T10:24:32+08:00 ] ::1 /lunhui/Uploads//images/2016-01-28/56a98be38ff26.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2016-02-04T10:24:32+08:00 ] ::1 /lunhui/Uploads//images/2016-01-22/56a1d70d67173.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-02-04T10:24:32+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e4f23708c.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2016-02-04T10:24:32+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e5e730ff2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-02-04T10:24:32+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e4f23708c.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-02-04T10:24:32+08:00 ] ::1 /lunhui/Uploads//images/2016-01-28/56a98be38ff26.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2016-02-04T10:24:32+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e64400bcd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2016-02-04T10:24:32+08:00 ] ::1 /lunhui/Uploads//images/2016-01-22/56a1d70d67173.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2016-02-04T10:24:44+08:00 ] ::1 /lunhui/Public/Admin/img/progress.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2016-02-04T10:32:32+08:00 ] ::1 /lunhui/Public/Admin/js/plugins/layer/extend/layer.ext.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001050s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0029s ]
+SQL: SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50   [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `web_carousel_list` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `web_carousel_list` WHERE ( img != '' and state > 0 ) ORDER BY orderby  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_link` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `web_link` WHERE ( state = 1 ) ORDER BY orderby  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `web_liuyan` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `web_liuyan` ORDER BY add_time desc LIMIT 4   [ RunTime:0.0004s ]
+SQL: SELECT `a_id` FROM `web_article` WHERE ( a_views > 0 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 26 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 29 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 38 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `a_id`,`photo`,`a_title`,`a_remark`,`a_keyword`,`cate_id`,`create_time`,`last_time`,`a_content`,`a_views`,`a_type`,`a_red`,`a_from`,`a_writer`,`create_ip` FROM `web_article` WHERE ( a_views > 0 ) ORDER BY a_views desc LIMIT 12   [ RunTime:0.0009s ]
+ERR: 非法操作:Admin
+
+[ 2016-02-04T10:32:44+08:00 ] ::1 /lunhui/Uploads//images/2016-01-28/56a98be38ff26.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-02-04T10:32:44+08:00 ] ::1 /lunhui/Uploads//images/2016-01-22/56a1d70d67173.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2016-02-04T10:32:44+08:00 ] ::1 /lunhui/Public/Admin/js/plugins/layer/extend/layer.ext.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0043s ]
+SQL: SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50   [ RunTime:0.0012s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `web_carousel_list` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `web_carousel_list` WHERE ( img != '' and state > 0 ) ORDER BY orderby  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_link` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `web_link` WHERE ( state = 1 ) ORDER BY orderby  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `web_liuyan` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `web_liuyan` ORDER BY add_time desc LIMIT 4   [ RunTime:0.0004s ]
+SQL: SELECT `a_id` FROM `web_article` WHERE ( a_views > 0 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 56 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 48 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `a_id`,`photo`,`a_title`,`a_remark`,`a_keyword`,`cate_id`,`create_time`,`last_time`,`a_content`,`a_views`,`a_type`,`a_red`,`a_from`,`a_writer`,`create_ip` FROM `web_article` WHERE ( a_views > 0 ) ORDER BY a_views desc LIMIT 12   [ RunTime:0.0008s ]
+ERR: 非法操作:Admin
+
+[ 2016-02-04T10:32:48+08:00 ] ::1 /lunhui/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0040s ]
+SQL: SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50   [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `web_carousel_list` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `web_carousel_list` WHERE ( img != '' and state > 0 ) ORDER BY orderby  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_link` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `web_link` WHERE ( state = 1 ) ORDER BY orderby  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_liuyan` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `web_liuyan` ORDER BY add_time desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `a_id` FROM `web_article` WHERE ( a_views > 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 55 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 58 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 44 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `a_id`,`photo`,`a_title`,`a_remark`,`a_keyword`,`cate_id`,`create_time`,`last_time`,`a_content`,`a_views`,`a_type`,`a_red`,`a_from`,`a_writer`,`create_ip` FROM `web_article` WHERE ( a_views > 0 ) ORDER BY a_views desc LIMIT 12   [ RunTime:0.0007s ]
+ERR: 非法操作:js
+
+[ 2016-02-04T10:32:48+08:00 ] ::1 /lunhui/Public/Admin/js/plugins/layer/extend/layer.ext.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0036s ]
+SQL: SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50   [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `web_carousel_list` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `web_carousel_list` WHERE ( img != '' and state > 0 ) ORDER BY orderby  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_link` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `web_link` WHERE ( state = 1 ) ORDER BY orderby  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_liuyan` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `web_liuyan` ORDER BY add_time desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `a_id` FROM `web_article` WHERE ( a_views > 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 11 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 58 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 47 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `a_id`,`photo`,`a_title`,`a_remark`,`a_keyword`,`cate_id`,`create_time`,`last_time`,`a_content`,`a_views`,`a_type`,`a_red`,`a_from`,`a_writer`,`create_ip` FROM `web_article` WHERE ( a_views > 0 ) ORDER BY a_views desc LIMIT 12   [ RunTime:0.0006s ]
+ERR: 非法操作:Admin
+
+[ 2016-02-04T10:33:05+08:00 ] ::1 /lunhui/Uploads//images/2016-01-28/56a98be38ff26.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-02-04T10:33:05+08:00 ] ::1 /lunhui/Uploads//images/2016-01-22/56a1d70d67173.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-02-04T10:33:05+08:00 ] ::1 /lunhui/Public/Admin/js/plugins/layer/extend/layer.ext.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0068s ]
+SQL: SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50   [ RunTime:0.0018s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `web_carousel_list` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `web_carousel_list` WHERE ( img != '' and state > 0 ) ORDER BY orderby  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `web_link` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `web_link` WHERE ( state = 1 ) ORDER BY orderby  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `web_liuyan` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `web_liuyan` ORDER BY add_time desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `a_id` FROM `web_article` WHERE ( a_views > 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 27 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 40 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 46 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `a_id`,`photo`,`a_title`,`a_remark`,`a_keyword`,`cate_id`,`create_time`,`last_time`,`a_content`,`a_views`,`a_type`,`a_red`,`a_from`,`a_writer`,`create_ip` FROM `web_article` WHERE ( a_views > 0 ) ORDER BY a_views desc LIMIT 12   [ RunTime:0.0007s ]
+ERR: 非法操作:Admin
+
+[ 2016-02-04T10:33:20+08:00 ] ::1 /lunhui/Article/index/a_id/55.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0065s ]
+SQL: SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50   [ RunTime:0.0022s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `web_carousel_list` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `web_carousel_list` WHERE ( img != '' and state > 0 ) ORDER BY orderby  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_link` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `web_link` WHERE ( state = 1 ) ORDER BY orderby  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_liuyan` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `web_liuyan` ORDER BY add_time desc LIMIT 4   [ RunTime:0.0005s ]
+SQL: SELECT `a_id` FROM `web_article` WHERE ( a_views > 0 )  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 4 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 58 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 17 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `a_id`,`photo`,`a_title`,`a_remark`,`a_keyword`,`cate_id`,`create_time`,`last_time`,`a_content`,`a_views`,`a_type`,`a_red`,`a_from`,`a_writer`,`create_ip` FROM `web_article` WHERE ( a_views > 0 ) ORDER BY a_views desc LIMIT 12   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 55 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 55 LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `web_article` SET `a_views`='199' WHERE `a_id` = 55 [ RunTime:0.0010s ]
+SQL: SELECT * FROM `web_article` WHERE ( a_views !=0 AND a_id <55 ) ORDER BY a_id desc LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT * FROM `web_article` WHERE ( a_views !=0 AND a_id >55 ) ORDER BY a_id LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+NOTIC: [2] Missing argument 2 for getIpaddr(), called in D:\WWW\lunhui\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php on line 168 and defined D:\WWW\lunhui\Application\Common\Common\function.php 第 44 行.
+NOTIC: [8] Undefined variable: data D:\WWW\lunhui\Application\Common\Common\function.php 第 54 行.
+NOTIC: [8] Undefined variable: Common D:\WWW\lunhui\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 168 行.
+NOTIC: [8] Undefined variable: page D:\WWW\lunhui\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 213 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062210s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000853s ]
+
+[ 2016-02-04T10:33:20+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e4f23708c.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2016-02-04T10:33:20+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e64400bcd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-02-04T10:33:20+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e5e730ff2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-02-04T10:33:20+08:00 ] ::1 /lunhui/Uploads//images/2016-01-22/56a1d70d67173.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-02-04T10:33:21+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e5e730ff2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-02-04T10:33:21+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e64400bcd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2016-02-04T10:33:21+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e4f23708c.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2016-02-04T10:33:21+08:00 ] ::1 /lunhui/Uploads//images/2016-01-22/56a1d70d67173.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-02-04T10:33:26+08:00 ] ::1 /lunhui/Article/index/a_id/55.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0022s ]
+SQL: SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `web_carousel_list` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `web_carousel_list` WHERE ( img != '' and state > 0 ) ORDER BY orderby  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_link` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `web_link` WHERE ( state = 1 ) ORDER BY orderby  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_liuyan` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `web_liuyan` ORDER BY add_time desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `a_id` FROM `web_article` WHERE ( a_views > 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 36 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 39 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `a_id`,`photo`,`a_title`,`a_remark`,`a_keyword`,`cate_id`,`create_time`,`last_time`,`a_content`,`a_views`,`a_type`,`a_red`,`a_from`,`a_writer`,`create_ip` FROM `web_article` WHERE ( a_views > 0 ) ORDER BY a_views desc LIMIT 12   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 55 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 55 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `web_article` SET `a_views`='200' WHERE `a_id` = 55 [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE ( a_views !=0 AND a_id <55 ) ORDER BY a_id desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE ( a_views !=0 AND a_id >55 ) ORDER BY a_id LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+NOTIC: [2] Missing argument 2 for getIpaddr(), called in D:\WWW\lunhui\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php on line 168 and defined D:\WWW\lunhui\Application\Common\Common\function.php 第 44 行.
+NOTIC: [8] Undefined variable: data D:\WWW\lunhui\Application\Common\Common\function.php 第 54 行.
+NOTIC: [8] Undefined variable: Common D:\WWW\lunhui\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 168 行.
+NOTIC: [8] Undefined variable: page D:\WWW\lunhui\Application\Runtime\Cache\Home\2ac6c1276904b87404ed678dbabb985c.php 第 213 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022089s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000884s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000941s ]
+
+[ 2016-02-04T10:33:26+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e64400bcd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2016-02-04T10:33:26+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e4f23708c.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2016-02-04T10:33:26+08:00 ] ::1 /lunhui/Uploads//carousel/2016-01-21/56a0e5e730ff2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-02-04T10:35:31+08:00 ] ::1 /lunhui/Uploads//images/2016-01-28/56a98be38ff26.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-02-04T10:35:31+08:00 ] ::1 /lunhui/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0029s ]
+SQL: SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50   [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `web_carousel_list` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `web_carousel_list` WHERE ( img != '' and state > 0 ) ORDER BY orderby  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_link` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `web_link` WHERE ( state = 1 ) ORDER BY orderby  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `web_liuyan` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `web_liuyan` ORDER BY add_time desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `a_id` FROM `web_article` WHERE ( a_views > 0 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 30 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 59 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 36 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `a_id`,`photo`,`a_title`,`a_remark`,`a_keyword`,`cate_id`,`create_time`,`last_time`,`a_content`,`a_views`,`a_type`,`a_red`,`a_from`,`a_writer`,`create_ip` FROM `web_article` WHERE ( a_views > 0 ) ORDER BY a_views desc LIMIT 12   [ RunTime:0.0008s ]
+ERR: 非法操作:js
+
+[ 2016-02-04T10:35:31+08:00 ] ::1 /lunhui/Public/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0025s ]
+SQL: SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50   [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `web_carousel_list` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `web_carousel_list` WHERE ( img != '' and state > 0 ) ORDER BY orderby  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_link` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `web_link` WHERE ( state = 1 ) ORDER BY orderby  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_liuyan` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `web_liuyan` ORDER BY add_time desc LIMIT 4   [ RunTime:0.0003s ]
+SQL: SELECT `a_id` FROM `web_article` WHERE ( a_views > 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 34 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 44 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 47 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `a_id`,`photo`,`a_title`,`a_remark`,`a_keyword`,`cate_id`,`create_time`,`last_time`,`a_content`,`a_views`,`a_type`,`a_red`,`a_from`,`a_writer`,`create_ip` FROM `web_article` WHERE ( a_views > 0 ) ORDER BY a_views desc LIMIT 12   [ RunTime:0.0008s ]
+ERR: 非法操作:js
+
+[ 2016-02-04T10:35:31+08:00 ] ::1 /lunhui/Uploads//images/2016-01-28/56a98be38ff26.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-02-04T10:35:31+08:00 ] ::1 /lunhui/Public/Admin/js/plugins/layer/extend/layer.ext.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0022s ]
+SQL: SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `web_carousel_list` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `web_carousel_list` WHERE ( img != '' and state > 0 ) ORDER BY orderby  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_link` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `web_link` WHERE ( state = 1 ) ORDER BY orderby  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_liuyan` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `web_liuyan` ORDER BY add_time desc LIMIT 4   [ RunTime:0.0002s ]
+SQL: SELECT `a_id` FROM `web_article` WHERE ( a_views > 0 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 13 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 59 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 36 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `a_id`,`photo`,`a_title`,`a_remark`,`a_keyword`,`cate_id`,`create_time`,`last_time`,`a_content`,`a_views`,`a_type`,`a_red`,`a_from`,`a_writer`,`create_ip` FROM `web_article` WHERE ( a_views > 0 ) ORDER BY a_views desc LIMIT 12   [ RunTime:0.0006s ]
+ERR: 非法操作:Admin
+
+[ 2016-02-04T10:35:48+08:00 ] ::1 /lunhui/Uploads//images/2016-01-22/56a1d70d67173.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2016-02-04T10:35:48+08:00 ] ::1 /lunhui/Public/Admin/js/plugins/layer/extend/layer.ext.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+NOTIC: [8] Undefined index: code D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 24 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0031s ]
+SQL: SELECT `a_keyword`,`a_id`,`create_time` FROM `web_article` WHERE ( a_keyword != '' and a_views > 0 ) ORDER BY create_time desc LIMIT 50   [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\WWW\lunhui\Application\Home\Controller\BaseController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `web_carousel_list` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `web_carousel_list` WHERE ( img != '' and state > 0 ) ORDER BY orderby  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `web_link` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `web_link` WHERE ( state = 1 ) ORDER BY orderby  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `web_liuyan` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `web_liuyan` ORDER BY add_time desc LIMIT 4   [ RunTime:0.0004s ]
+SQL: SELECT `a_id` FROM `web_article` WHERE ( a_views > 0 )  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 31 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 39 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 43 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `a_id`,`photo`,`a_title`,`a_remark`,`a_keyword`,`cate_id`,`create_time`,`last_time`,`a_content`,`a_views`,`a_type`,`a_red`,`a_from`,`a_writer`,`create_ip` FROM `web_article` WHERE ( a_views > 0 ) ORDER BY a_views desc LIMIT 12   [ RunTime:0.0009s ]
+ERR: 非法操作:Admin
+

@@ -1,0 +1,413 @@
+[ 2016-02-17T10:16:34+08:00 ] ::1 /lunhui/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002434s ]
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014856s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014908s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-02-17T10:16:37+08:00 ] ::1 /lunhui/Admin/Login/dologin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_admin` [ RunTime:0.0252s ]
+SQL: SELECT * FROM `web_admin` WHERE `user` = 'admin' AND `state` = 1 LIMIT 1   [ RunTime:0.0135s ]
+
+[ 2016-02-17T10:16:50+08:00 ] ::1 /lunhui/Admin/Login/dologin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_admin` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `web_admin` WHERE `user` = 'tianjianlong' AND `state` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `web_admin` SET `last_logintime`='1455675410',`last_loginip`='127.0.0.1' WHERE `id` = 1 [ RunTime:0.0123s ]
+
+[ 2016-02-17T10:16:50+08:00 ] ::1 /lunhui/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_role` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `web_role`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: menu_list D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `web_treenode` [ RunTime:0.0244s ]
+SQL: SELECT * FROM `web_treenode` WHERE `menuflag` = 1  [ RunTime:0.0135s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000246s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077202s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077268s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001366s ]
+
+[ 2016-02-17T10:16:55+08:00 ] ::1 /lunhui/Admin/news/newscate.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_role` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `web_role`  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: menu_list D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `web_treenode` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `web_treenode` WHERE `menuflag` = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_newscate` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `web_newscate` LIMIT 1   [ RunTime:0.0296s ]
+SQL: SELECT * FROM `web_newscate` LIMIT 0,10   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000242s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072064s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072192s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001426s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002164s ]
+
+[ 2016-02-17T10:17:00+08:00 ] ::1 /lunhui/Admin/article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_role` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `web_role`  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: menu_list D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `web_treenode` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `web_treenode` WHERE `menuflag` = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `web_article` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `web_article` ORDER BY a_id desc LIMIT 0,10   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000261s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033817s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000872s ]
+
+[ 2016-02-17T10:17:04+08:00 ] ::1 /lunhui/Admin/Article/edit/a_id/60.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_role` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `web_role`  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: menu_list D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `web_treenode` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `web_treenode` WHERE `menuflag` = 1  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 60 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Undefined variable: nowtime D:\WWW\lunhui\Application\Runtime\Cache\Admin\761055de2f430bef08441163fbb8bda7.php 第 353 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029955s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000863s ]
+
+[ 2016-02-17T10:17:05+08:00 ] ::1 /lunhui/Admin/Article/edit/a_id/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_role` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `web_role`  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: menu_list D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `web_treenode` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `web_treenode` WHERE `menuflag` = 1  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `web_article` WHERE `a_id` = 0 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+NOTIC: [8] Undefined variable: nowtime D:\WWW\lunhui\Application\Runtime\Cache\Admin\761055de2f430bef08441163fbb8bda7.php 第 353 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023403s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001669s ]
+
+[ 2016-02-17T10:17:07+08:00 ] ::1 /lunhui/Admin/Article/runedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_role` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `web_role`  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: menu_list D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `web_treenode` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `web_treenode` WHERE `menuflag` = 1  [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant htmlspecialchars - assumed 'htmlspecialchars' D:\WWW\lunhui\Application\Admin\Controller\ArticleController.class.php 第 94 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0022s ]
+SQL: UPDATE `web_article` SET `a_title`='2424242',`cate_id`='1',`photo`='/images/2016-02-04/56b2b85c6e0a9.png',`a_keyword`='45245245245',`a_remark`='245245',`a_content`='<p>24524524</p>',`a_red`='1',`a_type`='1',`a_views`='1',`a_writer`='轮回',`create_ip`='0.0.0.0',`last_time`='1455675427',`a_from`='Win 8.1' WHERE ( a_id=60 ) [ RunTime:0.0003s ]
+
+[ 2016-02-17T10:17:08+08:00 ] ::1 /lunhui/Admin/Article/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 63 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 65 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function ereg() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 67 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 69 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 71 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 73 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 75 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 77 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+NOTIC: [8192] Function eregi() is deprecated D:\WWW\lunhui\Application\Common\Common\function.php 第 79 行.
+SQL: SHOW COLUMNS FROM `web_role` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `web_role`  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: menu_list D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\lunhui\Application\Admin\Controller\BaseController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `web_treenode` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `web_treenode` WHERE `menuflag` = 1  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `web_article` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `web_article_cate` [ RunTime:0.0019s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `web_article` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `web_article` ORDER BY a_id desc LIMIT 0,10   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `web_article_cate`  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013545s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000916s ]
+
